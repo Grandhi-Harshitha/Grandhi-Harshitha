@@ -21,6 +21,7 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 
 
 Languages:
+
 C, Java, Python
 
 *Web Development:*  
