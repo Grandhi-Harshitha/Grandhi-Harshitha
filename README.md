@@ -19,18 +19,18 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 
 ## 🔧 Technical Skills
 
-
-**Languages:**
-C, Java, Python
+**Languages:**  
+C, Java, Python  
 
 **Web Development:**  
-HTML, CSS, JavaScript, React, Node.js
+HTML, CSS, JavaScript, React, Node.js  
 
 **Databases:**  
-MySQL, MongoDB
+MySQL, MongoDB  
 
 **Cloud Platforms & Tools:**  
-Selenium, Postman, Microsoft Azure, GitHub
+Selenium, Postman, Microsoft Azure, GitHub  
+
 
 ---
 
