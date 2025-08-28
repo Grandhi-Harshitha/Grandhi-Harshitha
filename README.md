@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Harshitha Grandhi</h1>
+
 ## About Me
 
 Hi! I'm Grandhi Harshitha, a passionate and curious developer with a strong interest in Full-Stack Web Development, Machine Learning, Deep Learning, and Open-Source Contributions.I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.
@@ -28,6 +29,7 @@ MySQL, MongoDB
 
 *Cloud Platforms & Tools:*  
 Selenium, Postman, Microsoft Azure, GitHub
+
 ---
 
 
