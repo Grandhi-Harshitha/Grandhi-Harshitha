@@ -63,5 +63,5 @@ Selenium, Postman, Microsoft Azure, GitHub
 
 ## 🤝 Let's Connect
 - 📫 Email: 22wh1a1295@bvrithyderabad.edu.in  
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harshitha-grandhi/)
+- 🌐 LinkedIn: [https://www.linkedin.com/in/harshitha-grandhi/](https://www.linkedin.com/in/harshitha-grandhi/)
 ---
