@@ -1,39 +1,37 @@
-## Hi 👋, I'm Harshitha Grandhi
+<h1 align="center"> Hi 👋, I'm Harshitha Grandhi</h1>
 ## About Me
 
-Hi! I'm Grandhi Harshitha, a passionate and curious developer with a strong interest in Full-Stack Web Development, Machine Learning, Deep Learning, and Open-Source Contributions.
-
-I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.
-
+Hi! I'm Grandhi Harshitha, a passionate and curious developer with a strong interest in Full-Stack Web Development, Machine Learning, Deep Learning, and Open-Source Contributions.I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.
 
 I’ve actively contributed to open-source programs like GirlScript Summer of Code Extended 2024, and earned certifications such as Postman API Fundamentals Student Expert. My learning journey spans a variety of domains, including Ruby development, Node.js and React.
 
-🔭 I’m currently working on Web application development
+-🔭 I’m currently working on Web application development
 
-👯 I’m looking to collaborate on Real-time projects
+-👯 I’m looking to collaborate on Real-time projects
 
-💬 Ask me about Machine Learning, Deep Learning
+-💬 Ask me about Machine Learning, Deep Learning
 
-😄 Pronouns: She/Her
+-😄 Pronouns: She/Her
 
-📫 How to reach me 22wh1a1295@bvrithyderabad.edu.in
+-📫 How to reach me 22wh1a1295@bvrithyderabad.edu.in
 
 
 ## 🔧 Technical Skills
-Languages:
+*Languages:*  
 C, Java, Python
 
-Web Development:
+*Web Development:*  
 HTML, CSS, JavaScript, React, Node.js
 
-Databases:
+*Databases:*  
 MySQL, MongoDB
 
-Cloud Platforms & Tools:
+*Cloud Platforms & Tools:*  
 Selenium, Postman, Microsoft Azure, GitHub
+---
 
 
-## GSSOC(24) Badges 🪶
+<h3 align="left">GSSOC(24) Badges 🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -61,5 +59,6 @@ Selenium, Postman, Microsoft Azure, GitHub
 </table>
 
 ## 🤝 Let's Connect
-📫 Email: 22wh1a1295@bvrithyderabad.edu.in
-🌐 LinkedIn:https:https://www.linkedin.com/in/harshitha-grandhi-0a0890308/?originalSubdomain=in
+- 📫 Email: 22wh1a1295@bvrithyderabad.edu.in  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harshitha-grandhi/)
+---
