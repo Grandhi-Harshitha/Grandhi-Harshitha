@@ -1,17 +1,36 @@
 ## Hi 👋, I'm Harshitha Grandhi
 ## About Me
 
-I am Harshitha Grandhi, a passionate software developer with an interest in developing innovative programs. My aim is to use my skills to solve real-world problems and make a positive impact. I am currently affiliated with  Bvrit Hyderabad, and I am a GSSOC'24 Contributor.
+Hi! I'm Grandhi Harshitha, a passionate and curious developer with a strong interest in Full-Stack Web Development, Machine Learning, Deep Learning, and Open-Source Contributions.
 
-🌱 I’m currently learning more about Mern FullStack
+I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.
 
-👯 I’m looking to collaborate on Real World Projects
 
-💬 Ask me about Java,Python,AI,Learning about FullStack
+I’ve actively contributed to open-source programs like GirlScript Summer of Code Extended 2024, and earned certifications such as Postman API Fundamentals Student Expert. My learning journey spans a variety of domains, including Ruby development, Node.js and React.
 
-😄 Pronouns: She/Her 
+🔭 I’m currently working on Web application development
 
-📫 How to reach me: 22wh1a1295@bvrithyderabad.edu.in
+👯 I’m looking to collaborate on Real-time projects
+
+💬 Ask me about Machine Learning, Deep Learning
+
+😄 Pronouns: She/Her
+
+📫 How to reach me 22wh1a1295@bvrithyderabad.edu.in
+
+
+## 🔧 Technical Skills
+Languages:
+C, Java, Python
+
+Web Development:
+HTML, CSS, JavaScript, React, Node.js
+
+Databases:
+MySQL, MongoDB
+
+Cloud Platforms & Tools:
+Selenium, Postman, Microsoft Azure, GitHub
 
 
 ## GSSOC(24) Badges 🪶
@@ -41,3 +60,6 @@ I am Harshitha Grandhi, a passionate software developer with an interest in deve
 </tr>
 </table>
 
+## 🤝 Let's Connect
+📫 Email: 22wh1a1295@bvrithyderabad.edu.in
+🌐 LinkedIn:https:https://www.linkedin.com/in/harshitha-grandhi-0a0890308/?originalSubdomain=in
