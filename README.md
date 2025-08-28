@@ -18,23 +18,21 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 
 
 ## 🔧 Technical Skills
-*Languages:*
 
+
+*Languages:*  
 C, Java, Python
 
-*Web Development:*
+*Web Development:*  
 HTML, CSS, JavaScript, React, Node.js
 
-*Databases:*
+*Databases:*  
 MySQL, MongoDB
 
-*Cloud Platforms & Tools:*
+*Cloud Platforms & Tools:*  
 Selenium, Postman, Microsoft Azure, GitHub
 
-
-
 ---
-
 
 <h3 align="left">GSSOC(24) Badges 🪶:</h3>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
