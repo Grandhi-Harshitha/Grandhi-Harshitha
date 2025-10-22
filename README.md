@@ -48,7 +48,8 @@ Selenium, Postman, Microsoft Azure, GitHub
 </div>
 
 ## Hacktoberfest Badges
-[![An image of @grandhiharshitha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grandhiharshitha)](https://holopin.io/@grandhiharshitha)
+[![Holopin Badges](https://holopin.me/grandhiharshitha)](https://holopin.io/@grandhiharshitha)
+
 
 
 <table width="100%" align="center">
